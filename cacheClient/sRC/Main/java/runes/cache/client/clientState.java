@@ -1,6 +1,6 @@
 package net.runelite.cache.client;
 
-public enum cState
+public enum clientState
 {
 	HANDSHAKING,
 	CONNECTED
